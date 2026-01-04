@@ -28,7 +28,7 @@
 \titlespacing*{\chapter}{0pt}{-10pt}{24pt}
 
 \titleformat{\section}
-  {\normalfont\large\bfseries}
+  {\normalfont\large\bfseries\centering}
   {\thesection}{0.5em}{}
 \titlespacing*{\section}{0pt}{12pt}{6pt}
 \titleformat{\subsection}
@@ -54,3 +54,6 @@
     \renewcommand{\footrulewidth}{0pt}
   }
 }
+
+% Fallback for \blacksquare if symbol fonts are unavailable.
+\providecommand{\blacksquare}{\rule{0.8ex}{0.8ex}}

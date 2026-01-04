@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 00:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 01:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1067,39 +1067,57 @@ File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mode
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 60.
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf>
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf, page 1>
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf, page 1>
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf, page 1>
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf, page 1>
+
+
+File: 封面.pdf Graphic file (type pdf)
+<use 封面.pdf, page 1>
+[1
+
+
+]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.37756pt on input line 64.
+(Font)              scaled to size 7.37756pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.26968pt on input line 64.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 64.
-(d:/Program Files/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
+(Font)              scaled to size 5.26968pt on input line 65.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 65.
+ (d:/Program Files/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.54033pt on input line 64.
+(Font)              scaled to size 10.54033pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.37823pt on input line 64.
+(Font)              scaled to size 7.37823pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.27016pt on input line 64.
+(Font)              scaled to size 5.27016pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 64.
+(Font)              scaled to size 10.53824pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.37677pt on input line 64.
+(Font)              scaled to size 7.37677pt on input line 65.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.26912pt on input line 64.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+(Font)              scaled to size 5.26912pt on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Overfull \hbox (6.0pt too wide) in paragraph at lines 64--64
+Overfull \hbox (6.0pt too wide) in paragraph at lines 65--65
 |[][][][][][]| 
  []
 
@@ -1112,7 +1130,6 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 64--64
 [1
 
 
-
 ] (./latex/0 引言.tex
 第零章
 
@@ -1120,50 +1137,75 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 |[][][][][][]| 
  []
 
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
 
 
 [1
 
 
 ]
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
 
 
 [2]
 
 [3]
 
-[4]
+[4]) (./latex/宪法.tex
+
+Package fontspec Info: 
+(fontspec)             FangSong scale = 0.976420540271054.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             FangSong scale = 0.976420540271054.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Scale=MatchLowercase,Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.976420540271054]"FangSong/OT:script=hani;language=dflt;"
+
+
+
+LaTeX Font Warning: Font shape `TU/FangSong(0)/b/n' undefined
+(Font)              using `TU/FangSong(0)/m/n' instead on input line 7.
+
+LaTeX Font Info:    Font shape `TU/FangSong(0)/m/n' will be
+(Font)              scaled to size 10.2909pt on input line 7.
+
 
 [5]
 
@@ -1173,11 +1215,9 @@ Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=
 
 [8]
 
-[9]
+[9]) (./latex/1 世界总体设计.tex
 
-[10]) (./latex/1 世界总体设计.tex
-
-[11]
+[10]
 第一章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1190,20 +1230,20 @@ Missing character: There is no ′ (U+2032) in font [lmroman10-regular]:mapping=
 Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[12
+[11
 
 ]
 
+[12]
+
 [13]
-
-[14]
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[15]) (./latex/3 机器人体系与AI治理结构.tex
+[14]) (./latex/3 机器人体系与AI治理结构.tex
 
-[16]
+[15]
 第二章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1212,9 +1252,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[17
+[16
 
 ]
+
+[17]
 
 [18]
 
@@ -1234,11 +1276,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [26]
 
-[27]
+[27]) (./latex/4 城市整体结构与功能分区.tex
 
-[28]) (./latex/4 城市整体结构与功能分区.tex
-
-[29]
+[28]
 第三章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1247,9 +1287,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[30
+[29
 
 ]
+
+[30]
 
 [31]
 
@@ -1259,11 +1301,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [34]
 
-[35]
+[35]) (./latex/7 社会制度.tex
 
-[36]) (./latex/7 社会制度.tex
-
-[37]
+[36]
 第四章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1272,9 +1312,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[38
+[37
 
 ]
+
+[38]
 
 [39]
 
@@ -1298,11 +1340,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [49]
 
-[50]
+[50]) (./latex/8 教育与科研体系.tex
 
-[51]) (./latex/8 教育与科研体系.tex
-
-[52]
+[51]
 第五章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1311,15 +1351,15 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[53
+[52
 
 ]
 
-[54]
+[53]
 
-[55]) (./latex/10 安全与应急管理.tex
+[54]) (./latex/10 安全与应急管理.tex
 
-[56]
+[55]
 第六章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1328,20 +1368,20 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[57
+[56
 
 ]
 
-[58]
+[57]
 
-[59]
+[58]
 Overfull \hbox (28.03574pt too wide) in paragraph at lines 92--96
 []\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.nvidia.com2.https://www.cisco.com 3. https://www.qualys.com 
  []
 
 
 
-[60]
+[59]
 Overfull \hbox (43.61292pt too wide) in paragraph at lines 113--117
 []\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://emarinesystems.com/emily/ 2. https://www.ubtrobot.com/en/solutions/ 
  []
@@ -1353,7 +1393,7 @@ Overfull \hbox (14.30292pt too wide) in paragraph at lines 124--128
 
 
 
-[61]
+[60]
 Underfull \hbox (badness 1502) in paragraph at lines 164--165
 []\TU/SimSun(0)/m/n/10.53937 并 加 入 未 来 版 \TU/lmr/m/n/10.53937 AI \TU/SimSun(0)/m/n/10.53937 控 制 与 非 致 命 性 策 略。|  具 有 拦 截 中 小 型 无 人 机 群、|  巡
  []
@@ -1370,16 +1410,16 @@ Underfull \hbox (badness 3428) in paragraph at lines 164--165
 
 
 
-[62]
+[61]
 
-[63]
+[62]
 Overfull \hbox (324.46594pt too wide) in paragraph at lines 210--211
 []\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1.https://www.sewerrobotics.com2.https://www.builtrobotics.com3.https://www.brokk.com4.http://www.cea.gov.cn5.https://www.ageagle.com 
  []
 
 ) (./latex/11 交通与物流.tex
 
-[64]
+[63]
 第七章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1388,26 +1428,26 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[65
+[64
 
 ]
 
-[66]
+[65]
 
-[67]
+[66]
 Overfull \hbox (23.93593pt too wide) in paragraph at lines 81--85
 []\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.dnv.com2.https://www.saildrone.com 3. https://www.navy.mil 
  []
 
 
 
+[67]
+
 [68]
 
-[69]
+[69]) (./latex/12 资源循环与环境管理.tex
 
-[70]) (./latex/12 资源循环与环境管理.tex
-
-[71]
+[70]
 第八章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1416,13 +1456,13 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[72
+[71
 
 ]
 
-[73]) (./latex/13 移民者权利与义务.tex
+[72]) (./latex/13 移民者权利与义务.tex
 
-[74]
+[73]
 第九章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1431,21 +1471,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[75
+[74
 
 ]
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 
 
+[75]
+
 [76]
 
 [77]
 
-[78]
+[78]) (./latex/14 未来展望.tex
 
-[79]) (./latex/14 未来展望.tex
-
-[80]
+[79]
 第十章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1454,31 +1494,31 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[81
+[80
 
 ]
 
-[82]
+[81]
 
-[83])
+[82])
 
-[84] (./堕落街美食调研组 世界说明书.aux)
+[83] (./堕落街美食调研组 世界说明书.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 34208 strings out of 473832
- 733881 string characters out of 5726731
- 1226200 words of memory out of 5000000
- 56694 multiletter control sequences out of 15000+600000
- 564128 words of font info for 84 fonts, out of 8000000 for 9000
+ 34396 strings out of 473832
+ 745555 string characters out of 5726731
+ 1225753 words of memory out of 5000000
+ 56868 multiletter control sequences out of 15000+600000
+ 564168 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,114p,1216b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,17n,119p,1216b,592s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 堕落街美食调研组 世界说明书.pdf (85 pages).

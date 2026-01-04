@@ -1,4 +1,0 @@
-\contentsline {chapter}{前言}{1}{chapter*.2}%
-\contentsline {chapter}{\numberline {第零章\hspace {.3em}}第一章 标题}{2}{chapter.0}%
-\contentsline {section}{\numberline {0.1}1 小节标题}{2}{section.0.1}%
-\contentsline {section}{\numberline {0.2}2 小节标题}{2}{section.0.2}%
