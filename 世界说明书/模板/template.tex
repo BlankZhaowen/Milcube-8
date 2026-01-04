@@ -1,0 +1,82 @@
+﻿% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[oneside]{ctexbook}
+
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{pdfpages}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\input{format.tex}
+
+% Book metadata
+\newcommand{\BookSubtitle}{持续200年的故事}
+\newcommand{\BookTitle}{进化论发展史}
+\newcommand{\BookAuthor}{作者名}
+\title{\BookTitle}
+\author{\BookAuthor}
+\date{}
+
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\begin{document}
+\frontmatter
+{
+\setcounter{tocdepth}{0}
+\tableofcontents
+}
+\mainmatter
+
+\chapter*{前言}
+\addcontentsline{toc}{chapter}{前言}
+这里写前言内容。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{第一章 标题}
+\section{1 小节标题}
+这里写正文内容。
+
+\section{2 小节标题}
+这里写正文内容。
+
+\backmatter
+\end{document}

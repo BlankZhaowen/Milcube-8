@@ -1,0 +1,56 @@
+\usepackage[b5paper,margin=2cm]{geometry}
+% Keep symmetric margins; no two-side alternation, smaller page size.
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{pdfpages}
+
+% Paragraph formatting: indent two chars; add 0.3x line gap between paragraphs.
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.3\baselineskip}
+
+% Do not number section and below.
+\setcounter{secnumdepth}{0}
+
+% Chapter title style: large number on the right with a gray band for the title.
+\definecolor{ChapterBand}{RGB}{230,230,230}
+\definecolor{ChapterNumber}{gray}{0.6}
+\newcommand{\ChapterTitleBox}[1]{%
+  \colorbox{ChapterBand}{%
+    \parbox{\textwidth}{\vspace{10pt}\raggedleft\bfseries\Large #1\hspace{2pt}}}%
+  \vspace{2ex}}
+\titleformat{\chapter}[display]
+  {\normalfont}
+  {\hfill\color{ChapterNumber}\fontsize{60}{60}\selectfont\thechapter}
+  {1ex}
+  {\ChapterTitleBox}
+\titlespacing*{\chapter}{0pt}{-10pt}{24pt}
+
+\titleformat{\section}
+  {\normalfont\large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsection}{0pt}{10pt}{4pt}
+
+% Ensure paragraph spacing/indent apply after all packages.
+\AtBeginDocument{%
+  \setlength{\parskip}{0.3\baselineskip}%
+  \setlength{\parindent}{2em}%
+  \setcounter{chapter}{-1}% start chapters at 0
+  % Page style: remove headers, center footer page numbers.
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+  \fancypagestyle{plain}{%
+    \fancyhf{}
+    \fancyfoot[C]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
+}
+
