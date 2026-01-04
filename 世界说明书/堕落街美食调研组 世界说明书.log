@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 01:49
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 02:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -761,11 +761,7 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 \BKM@id=\count360
 )) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
-) (./堕落街美食调研组 世界说明书.aux
-
-LaTeX Warning: Label `ux65e5ux8f6eux4e4bux5195ux5baaux6cd5' multiply defined.
-
-)
+) (./堕落街美食调研组 世界说明书.aux)
 \openout1 = `"堕落街美食调研组 世界说明书.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -1089,39 +1085,80 @@ File: 封面.pdf Graphic file (type pdf)
 
 
 ]
+
+Package fontspec Info: 
+(fontspec)             KaiTi scale = 0.9350480880976463.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "KaiTi/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "KaiTi/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             KaiTi scale = 0.9350480880976463.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'KaiTi(0)' created for font 'KaiTi' with
+(fontspec)             options [Scale=MatchLowercase,Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9350480880976463]"KaiTi/OT:script=hani;language=dflt;"
+
+LaTeX Font Info:    Font shape `TU/KaiTi(0)/m/n' will be
+(Font)              scaled to size 11.26259pt on input line 69.
+
+
+[1
+
+]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.37756pt on input line 65.
+(Font)              scaled to size 7.37756pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.26968pt on input line 65.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 65.
+(Font)              scaled to size 5.26968pt on input line 80.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 80.
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.54033pt on input line 65.
+(Font)              scaled to size 10.54033pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.37823pt on input line 65.
+(Font)              scaled to size 7.37823pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.27016pt on input line 65.
+(Font)              scaled to size 5.27016pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 65.
+(Font)              scaled to size 10.53824pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.37677pt on input line 65.
+(Font)              scaled to size 7.37677pt on input line 80.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.26912pt on input line 65.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+(Font)              scaled to size 5.26912pt on input line 80.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Overfull \hbox (6.0pt too wide) in paragraph at lines 65--65
+Overfull \hbox (6.0pt too wide) in paragraph at lines 80--80
 |[][][][][][]| 
  []
 
@@ -1131,7 +1168,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 65--65
 
 
 
-[1
+[2
 
 
 ] (./latex/0 引言.tex
@@ -1167,7 +1204,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
 [3]
 
-[4]) (./latex/宪法.tex
+[4]
+
+[5]) (./latex/宪法.tex
 
 Package fontspec Info: 
 (fontspec)             FangSong scale = 0.976420540271054.
@@ -1202,45 +1241,11 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.976420540271054]"FangSong/OT:script=hani;language=dflt;"
 
+LaTeX Font Info:    Font shape `TU/FangSong(0)/m/n' will be
+(Font)              scaled to size 11.76103pt on input line 7.
+LaTeX Font Info:    Font shape `TU/FangSong(0)/m/n' will be
+(Font)              scaled to size 10.2909pt on input line 11.
 
-Package fontspec Info: 
-(fontspec)             SimHei scale = 0.9430396989318163.
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             SimHei scale = 0.9430396989318163.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'SimHei(0)' created for font 'SimHei' with
-(fontspec)             options [Scale=MatchLowercase,Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9430396989318163]"SimHei/OT:script=hani;language=dflt;"
-
-LaTeX Font Info:    Font shape `TU/SimHei(0)/m/n' will be
-(Font)              scaled to size 9.93903pt on input line 7.
-
-
-[5]
 
 [6]
 
@@ -1248,9 +1253,11 @@ LaTeX Font Info:    Font shape `TU/SimHei(0)/m/n' will be
 
 [8]
 
-[9]) (./latex/1 世界总体设计.tex
+[9]
 
-[10]
+[10]) (./latex/1 世界总体设计.tex
+
+[11]
 第一章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1263,20 +1270,20 @@ Missing character: There is no ′ (U+2032) in font [lmroman10-regular]:mapping=
 Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[11
+[12
 
 ]
 
-[12]
-
 [13]
+
+[14]
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[14]) (./latex/3 机器人体系与AI治理结构.tex
+[15]) (./latex/3 机器人体系与AI治理结构.tex
 
-[15]
+[16]
 第二章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1285,11 +1292,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[16
+[17
 
 ]
-
-[17]
 
 [18]
 
@@ -1309,9 +1314,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [26]
 
-[27]) (./latex/4 城市整体结构与功能分区.tex
+[27]
 
-[28]
+[28]) (./latex/4 城市整体结构与功能分区.tex
+
+[29]
 第三章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1320,11 +1327,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[29
+[30
 
 ]
-
-[30]
 
 [31]
 
@@ -1334,9 +1339,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [34]
 
-[35]) (./latex/7 社会制度.tex
+[35]
 
-[36]
+[36]) (./latex/7 社会制度.tex
+
+[37]
 第四章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1345,11 +1352,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[37
+[38
 
 ]
-
-[38]
 
 [39]
 
@@ -1373,9 +1378,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 [49]
 
-[50]) (./latex/8 教育与科研体系.tex
+[50]
 
-[51]
+[51]) (./latex/8 教育与科研体系.tex
+
+[52]
 第五章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1384,15 +1391,15 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[52
+[53
 
 ]
 
-[53]
+[54]
 
-[54]) (./latex/10 安全与应急管理.tex
+[55]) (./latex/10 安全与应急管理.tex
 
-[55]
+[56]
 第六章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1401,58 +1408,38 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[56
+[57
 
 ]
 
-[57]
-
 [58]
-Overfull \hbox (28.03574pt too wide) in paragraph at lines 92--96
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.nvidia.com2.https://www.cisco.com 3. https://www.qualys.com 
- []
-
-
 
 [59]
-Overfull \hbox (43.61292pt too wide) in paragraph at lines 113--117
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://emarinesystems.com/emily/ 2. https://www.ubtrobot.com/en/solutions/ 
- []
-
-
-Overfull \hbox (14.30292pt too wide) in paragraph at lines 124--128
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.amazonrobotics.com 2. https://www.iaea.org/topics/nuclear-
- []
-
-
 
 [60]
-Underfull \hbox (badness 1502) in paragraph at lines 164--165
+
+[61]
+Underfull \hbox (badness 1502) in paragraph at lines 176--177
 []\TU/SimSun(0)/m/n/10.53937 并 加 入 未 来 版 \TU/lmr/m/n/10.53937 AI \TU/SimSun(0)/m/n/10.53937 控 制 与 非 致 命 性 策 略。|  具 有 拦 截 中 小 型 无 人 机 群、|  巡
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 164--165
+Underfull \hbox (badness 3657) in paragraph at lines 176--177
 \TU/SimSun(0)/m/n/10.53937 航 器、|  武 装 船 只 发 射 的 威 胁 物 的 防 御 用 途。|  安 全 设 计：|  导 弹 采 用 \TU/lmr/m/n/10.53937 “\TU/SimSun(0)/m/n/10.53937 可 控 破
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 164--165
+Underfull \hbox (badness 3428) in paragraph at lines 176--177
 \TU/SimSun(0)/m/n/10.53937 片\TU/lmr/m/n/10.53937 ” \TU/SimSun(0)/m/n/10.53937 设 计，|  只 在 高 空 爆 破；|  不 落 入 地 面，|  不 对 居 民 区 造 成 二 次 伤 害。|  来 源：|
  []
 
 
 
-[61]
-
 [62]
-Overfull \hbox (324.46594pt too wide) in paragraph at lines 210--211
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1.https://www.sewerrobotics.com2.https://www.builtrobotics.com3.https://www.brokk.com4.http://www.cea.gov.cn5.https://www.ageagle.com 
- []
 
-) (./latex/11 交通与物流.tex
+[63]) (./latex/11 交通与物流.tex
 
-[63]
+[64]
 第七章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1461,26 +1448,26 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[64
+[65
 
 ]
 
-[65]
-
 [66]
+
+[67]
 Overfull \hbox (23.93593pt too wide) in paragraph at lines 81--85
 []\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.dnv.com2.https://www.saildrone.com 3. https://www.navy.mil 
  []
 
 
 
-[67]
-
 [68]
 
-[69]) (./latex/12 资源循环与环境管理.tex
+[69]
 
-[70]
+[70]) (./latex/12 资源循环与环境管理.tex
+
+[71]
 第八章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1489,13 +1476,13 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[71
+[72
 
 ]
 
-[72]) (./latex/13 移民者权利与义务.tex
+[73]) (./latex/13 移民者权利与义务.tex
 
-[73]
+[74]
 第九章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1504,21 +1491,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[74
+[75
 
 ]
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[75]
-
 [76]
 
 [77]
 
-[78]) (./latex/14 未来展望.tex
+[78]
 
-[79]
+[79]) (./latex/14 未来展望.tex
+
+[80]
 第十章
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -1527,31 +1514,27 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 
 
 
-[80
+[81
 
 ]
 
-[81]
+[82]
 
-[82])
+[83])
 
-[83] (./堕落街美食调研组 世界说明书.aux)
+[84] (./堕落街美食调研组 世界说明书.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 34390 strings out of 473832
- 744505 string characters out of 5726731
- 1225791 words of memory out of 5000000
- 56858 multiletter control sequences out of 15000+600000
- 564184 words of font info for 91 fonts, out of 8000000 for 9000
+ 34408 strings out of 473832
+ 745794 string characters out of 5726731
+ 1225769 words of memory out of 5000000
+ 56874 multiletter control sequences out of 15000+600000
+ 564200 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,119p,1216b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 堕落街美食调研组 世界说明书.pdf (85 pages).
+Output written on 堕落街美食调研组 世界说明书.pdf (87 pages).
