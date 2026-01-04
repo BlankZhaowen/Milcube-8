@@ -4,13 +4,14 @@
 \usepackage{fancyhdr}
 \usepackage{tikz}
 \usepackage{pdfpages}
+\usepackage{indentfirst} % 调用即生效，不需要任何配置
 
 % Paragraph formatting: indent two chars; add 0.4x line gap between paragraphs.
 \setlength{\parindent}{2em}
 \setlength{\parskip}{0.4\baselineskip}
 
-% Do not number section and below.
-\setcounter{secnumdepth}{0}
+% Number sections and subsections.
+\setcounter{secnumdepth}{2}
 
 % Chapter title style: large number on the right with a gray band for the title.
 \definecolor{ChapterBand}{RGB}{230,230,230}
@@ -28,11 +29,11 @@
 
 \titleformat{\section}
   {\normalfont\large\bfseries}
-  {}{0pt}{}
+  {\thesection}{0.5em}{}
 \titlespacing*{\section}{0pt}{12pt}{6pt}
 \titleformat{\subsection}
   {\normalfont\normalsize\bfseries}
-  {}{0pt}{}
+  {\thesubsection}{0.5em}{}
 \titlespacing*{\subsection}{0pt}{10pt}{4pt}
 
 % Ensure paragraph spacing/indent apply after all packages.

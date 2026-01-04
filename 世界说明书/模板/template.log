@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 00:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.25)  5 JAN 2026 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"堕落街美食调研组 世界说明书"
-(./堕落街美食调研组 世界说明书.tex
+**template
+(./template.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (d:/Program Files/texlive/2025/texmf-dist/tex/latex/ctex/ctexbook.cls (d:/Program Files/texlive/2025/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
@@ -429,7 +429,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 Couldn't patch \@startsection
 Couldn't patch \@xsect
-) (./模板/format.tex (d:/Program Files/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+) (./format.tex (d:/Program Files/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (d:/Program Files/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -655,9 +655,7 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count346
  (d:/Program Files/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-)) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
+)))) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
@@ -761,8 +759,9 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 \BKM@id=\count360
 )) (d:/Program Files/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
-) (./堕落街美食调研组 世界说明书.aux)
-\openout1 = `"堕落街美食调研组 世界说明书.aux"'.
+)
+No file template.aux.
+\openout1 = `template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
@@ -784,7 +783,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
- (d:/Program Files/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(d:/Program Files/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (d:/Program Files/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
@@ -1067,6 +1066,9 @@ File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mode
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 60.
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 7.37756pt on input line 64.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1103,9 +1105,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 64--64
 |[][][][][][]| 
  []
 
-(./堕落街美食调研组 世界说明书.toc)
+No file template.toc.
 \tf@toc=\write4
-\openout4 = `"堕落街美食调研组 世界说明书.toc"'.
+\openout4 = `template.toc'.
 
 
 
@@ -1113,372 +1115,40 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 64--64
 
 
 
-] (./latex/0 引言.tex
+]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 68--68
+|[][][][][][]| 
+ []
+
+
+
+[1
+
+
+]
 第零章
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[1
-
-
-]
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ■ (U+25A0) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[2]
-
-[3]
-
-[4]
-
-[5]
-
-[6]
-
-[7]
-
-[8]
-
-[9]
-
-[10]) (./latex/1 世界总体设计.tex
-
-[11]
-第一章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-Missing character: There is no ′ (U+2032) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ′ (U+2032) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[12
-
-]
-
-[13]
-
-[14]
-Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[15]) (./latex/3 机器人体系与AI治理结构.tex
-
-[16]
-第二章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
+Overfull \hbox (6.0pt too wide) in paragraph at lines 74--74
 |[][][][][][]| 
  []
 
 
 
-[17
+[2
 
-]
-
-[18]
-
-[19]
-
-[20]
-
-[21]
-
-[22]
-
-[23]
-
-[24]
-
-[25]
-
-[26]
-
-[27]
-
-[28]) (./latex/4 城市整体结构与功能分区.tex
-
-[29]
-第三章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[30
-
-]
-
-[31]
-
-[32]
-
-[33]
-
-[34]
-
-[35]
-
-[36]) (./latex/7 社会制度.tex
-
-[37]
-第四章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[38
-
-]
-
-[39]
-
-[40]
-
-[41]
-
-[42]
-
-[43]
-
-[44]
-
-[45]
-
-[46]
-
-[47]
-
-[48]
-
-[49]
-
-[50]
-
-[51]) (./latex/8 教育与科研体系.tex
-
-[52]
-第五章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[53
-
-]
-
-[54]
-
-[55]) (./latex/10 安全与应急管理.tex
-
-[56]
-第六章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[57
-
-]
-
-[58]
-
-[59]
-Overfull \hbox (28.03574pt too wide) in paragraph at lines 92--96
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.nvidia.com2.https://www.cisco.com 3. https://www.qualys.com 
- []
-
-
-
-[60]
-Overfull \hbox (43.61292pt too wide) in paragraph at lines 113--117
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://emarinesystems.com/emily/ 2. https://www.ubtrobot.com/en/solutions/ 
- []
-
-
-Overfull \hbox (14.30292pt too wide) in paragraph at lines 124--128
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.amazonrobotics.com 2. https://www.iaea.org/topics/nuclear-
- []
-
-
-
-[61]
-Underfull \hbox (badness 1502) in paragraph at lines 164--165
-[]\TU/SimSun(0)/m/n/10.53937 并 加 入 未 来 版 \TU/lmr/m/n/10.53937 AI \TU/SimSun(0)/m/n/10.53937 控 制 与 非 致 命 性 策 略。|  具 有 拦 截 中 小 型 无 人 机 群、|  巡
- []
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 164--165
-\TU/SimSun(0)/m/n/10.53937 航 器、|  武 装 船 只 发 射 的 威 胁 物 的 防 御 用 途。|  安 全 设 计：|  导 弹 采 用 \TU/lmr/m/n/10.53937 “\TU/SimSun(0)/m/n/10.53937 可 控 破
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 164--165
-\TU/SimSun(0)/m/n/10.53937 片\TU/lmr/m/n/10.53937 ” \TU/SimSun(0)/m/n/10.53937 设 计，|  只 在 高 空 爆 破；|  不 落 入 地 面，|  不 对 居 民 区 造 成 二 次 伤 害。|  来 源：|
- []
-
-
-
-[62]
-
-[63]
-Overfull \hbox (324.46594pt too wide) in paragraph at lines 210--211
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1.https://www.sewerrobotics.com2.https://www.builtrobotics.com3.https://www.brokk.com4.http://www.cea.gov.cn5.https://www.ageagle.com 
- []
-
-) (./latex/11 交通与物流.tex
-
-[64]
-第七章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[65
-
-]
-
-[66]
-
-[67]
-Overfull \hbox (23.93593pt too wide) in paragraph at lines 81--85
-[]\TU/SimSun(0)/m/n/10.53937 来 源：| \TU/lmr/m/n/10.53937 1. https://www.dnv.com2.https://www.saildrone.com 3. https://www.navy.mil 
- []
-
-
-
-[68]
-
-[69]
-
-[70]) (./latex/12 资源循环与环境管理.tex
-
-[71]
-第八章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[72
-
-]
-
-[73]) (./latex/13 移民者权利与义务.tex
-
-[74]
-第九章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[75
-
-]
-Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[76]
-
-[77]
-
-[78]
-
-[79]) (./latex/14 未来展望.tex
-
-[80]
-第十章
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
-|[][][][][][]| 
- []
-
-
-
-[81
-
-]
-
-[82]
-
-[83])
-
-[84] (./堕落街美食调研组 世界说明书.aux)
+] (./template.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 34208 strings out of 473832
- 733881 string characters out of 5726731
- 1226200 words of memory out of 5000000
- 56694 multiletter control sequences out of 15000+600000
- 564128 words of font info for 84 fonts, out of 8000000 for 9000
+ 33362 strings out of 473832
+ 685354 string characters out of 5726731
+ 1190339 words of memory out of 5000000
+ 55897 multiletter control sequences out of 15000+600000
+ 564104 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,114p,1216b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,114p,1205b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 堕落街美食调研组 世界说明书.pdf (85 pages).
+Output written on template.pdf (3 pages).
