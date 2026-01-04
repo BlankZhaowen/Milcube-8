@@ -1,0 +1,81 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[oneside]{ctexbook}
+
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{pdfpages}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\input{模板/format.tex}
+
+% Book metadata
+\newcommand{\BookSubtitle}{世界说明书}
+\newcommand{\BookTitle}{堕落街美食调研组 世界说明书}
+\newcommand{\BookAuthor}{堕落街美食调研组}
+\title{\BookTitle}
+\author{\BookAuthor}
+\date{}
+
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\begin{document}
+\frontmatter
+{
+\setcounter{tocdepth}{0}
+\tableofcontents
+}
+\mainmatter
+
+\input{latex/0 引言.tex}
+\input{latex/1 世界总体设计.tex}
+\input{latex/3 机器人体系与AI治理结构.tex}
+\input{latex/4 城市整体结构与功能分区.tex}
+\input{latex/7 社会制度.tex}
+\input{latex/8 教育与科研体系.tex}
+\input{latex/10 安全与应急管理.tex}
+\input{latex/11 交通与物流.tex}
+\input{latex/12 资源循环与环境管理.tex}
+\input{latex/13 移民者权利与义务.tex}
+\input{latex/14 未来展望.tex}
+
+\backmatter
+\end{document}

@@ -5,9 +5,9 @@
 \usepackage{tikz}
 \usepackage{pdfpages}
 
-% Paragraph formatting: indent two chars; add 0.3x line gap between paragraphs.
+% Paragraph formatting: indent two chars; add 0.4x line gap between paragraphs.
 \setlength{\parindent}{2em}
-\setlength{\parskip}{0.3\baselineskip}
+\setlength{\parskip}{0.4\baselineskip}
 
 % Do not number section and below.
 \setcounter{secnumdepth}{0}
@@ -37,7 +37,7 @@
 
 % Ensure paragraph spacing/indent apply after all packages.
 \AtBeginDocument{%
-  \setlength{\parskip}{0.3\baselineskip}%
+  \setlength{\parskip}{0.4\baselineskip}%
   \setlength{\parindent}{2em}%
   \setcounter{chapter}{-1}% start chapters at 0
   % Page style: remove headers, center footer page numbers.
@@ -53,4 +53,3 @@
     \renewcommand{\footrulewidth}{0pt}
   }
 }
-
