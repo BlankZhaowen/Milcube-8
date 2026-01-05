@@ -21,216 +21,288 @@
 \contentsline {subsection}{\numberline {1.5.3}社会系统：AI 代表人类的高效民主治理结构}{15}{subsection.1.5.3}%
 \contentsline {subsection}{\numberline {1.5.4}三大系统的耦合机制}{15}{subsection.1.5.4}%
 \contentsline {section}{\numberline {1.6}世界容量与个人世界底层逻辑：人口、机器人与 AI 算力}{15}{section.1.6}%
-\contentsline {chapter}{\numberline {第二章\hspace {.3em}}机器人体系与AI治理结构}{17}{chapter.2}%
-\contentsline {section}{\numberline {2.1}全能型劳动机器人能力说明}{17}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}物理能力：强，但始终可被压制}{17}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}感知与认知：会理解，不会``有自己想法''}{17}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}供电与可随时关闭能力}{18}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}接口与通信：通用，但受控}{18}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.1.5}能力边界：永远被定义为工具，而非``准主体''}{18}{subsection.2.1.5}%
-\contentsline {section}{\numberline {2.2}机器人数量、角色与权限}{19}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}数量控制：不靠某个人说了算，而靠公开规则}{19}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}角色分级：谁都不是``全权指挥官''}{19}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}权限模型：写死在系统里的``最小权限原则''}{20}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}从结构上阻断``组团夺权''}{20}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}数量与权限的动态调节}{21}{subsection.2.2.5}%
-\contentsline {section}{\numberline {2.3}超级AI：行政中枢结构}{21}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}定位：算力集中，权力分散}{21}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}结构：一颗``多心脏''的分布式大脑}{22}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}权限边界：超级AI指挥不了机器人本身}{22}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}不可篡改的``规则内核''}{22}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}决策流程：让冷冰冰的算力跑在热乎乎的规则里}{22}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}故障与``降级生存''}{23}{subsection.2.3.6}%
-\contentsline {section}{\numberline {2.4}个人AI与社会级AI的协同机制}{23}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}个人AI：每个人自己的``小代表''}{23}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}社会级AI：只看``所有人之和''，不盯着某个人}{24}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}通信协议：谁给谁说话，怎么说}{24}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}避免``上下串谋''：通道是公开的，核心是封闭的}{24}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}协同方式：分工明确，不搞``越俎代庖''}{24}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}个人AI``完全顺从''的边界设计}{25}{subsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.4.7}演化与更新：两条独立的成长路径}{25}{subsection.2.4.7}%
-\contentsline {section}{\numberline {2.5}人机协作及伦理边界}{25}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}岗位分工：哪些事坚决留给人类}{25}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}伦理底线：几条机器永远不能跨的线}{26}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}协作形式：机器补人，不是替人}{26}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}个人AI的``不顺从权''与解释义务}{27}{subsection.2.5.4}%
-\contentsline {subsection}{\numberline {2.5.5}可见、可质疑、可退出}{27}{subsection.2.5.5}%
-\contentsline {section}{\numberline {2.6}人类安全制度设计}{27}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}第一层：硬件层``物理保险''}{28}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}第二层：软件层``指令合规与异常检测''}{28}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}第三层：流程层``分级应急与可回退运行模式''}{28}{subsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.6.4}第四层：制度与文化层``谁都有一根绳子在手里''}{29}{subsection.2.6.4}%
-\contentsline {subsection}{\numberline {2.6.5}防止AI干预安全机制本身}{29}{subsection.2.6.5}%
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}城市整体结构与功能分区}{30}{chapter.3}%
-\contentsline {section}{\numberline {3.1}住宅区}{30}{section.3.1}%
-\contentsline {section}{\numberline {3.2}农业与食品系统}{30}{section.3.2}%
-\contentsline {section}{\numberline {3.3}工业区与核心制造设施}{30}{section.3.3}%
-\contentsline {section}{\numberline {3.4}科研与实验设施}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}军事区}{31}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}区位与总体定位}{31}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}军种构成与职责划分}{31}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}军用港口与船坞系统}{32}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}指挥体系与权限机制}{33}{subsection.3.5.4}%
-\contentsline {section}{\numberline {3.6}公共服务与文化设施}{33}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}道路系统}{33}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Funshop（创造单元）}{33}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}教育、文艺工作}{34}{subsection.3.6.3}%
-\contentsline {section}{\numberline {3.7}医疗中心与健康系统}{34}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}中央医院}{34}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}社区基础医疗站}{34}{subsection.3.7.2}%
-\contentsline {section}{\numberline {3.8}应急系统（灾害、社会安全、医疗应急）}{34}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}（1）组织结构与职责分工}{35}{subsection.3.8.1}%
-\contentsline {subsubsection}{职能单位}{35}{subsubsection*.2}%
-\contentsline {subsubsection}{联动机制}{35}{subsubsection*.3}%
-\contentsline {subsection}{\numberline {3.8.2}（2）灾害（尤其海啸）应急系统}{35}{subsection.3.8.2}%
-\contentsline {subsubsection}{预防、监测与预警}{35}{subsubsection*.4}%
-\contentsline {subsubsection}{紧急响应与撤离}{35}{subsubsection*.5}%
-\contentsline {subsubsection}{救援、救护与后勤保障}{35}{subsubsection*.6}%
-\contentsline {subsubsection}{灾后恢复与善后处置}{36}{subsubsection*.7}%
-\contentsline {subsection}{\numberline {3.8.3}（3）社会安全与医疗应急系统}{36}{subsection.3.8.3}%
-\contentsline {subsubsection}{社会安全应急}{36}{subsubsection*.8}%
-\contentsline {subsubsection}{医疗应急系统}{36}{subsubsection*.9}%
-\contentsline {subsection}{\numberline {3.8.4}（4）应急资源与物资储备}{36}{subsection.3.8.4}%
-\contentsline {subsection}{\numberline {3.8.5}（5）系统实施与持续改进}{37}{subsection.3.8.5}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}社会制度}{38}{chapter.4}%
-\contentsline {section}{\numberline {4.1}制度设计原则}{38}{section.4.1}%
-\contentsline {section}{\numberline {4.2}政治与治理架构}{38}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}人民大会}{38}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}启真院}{39}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}建德院}{40}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}工农三院}{40}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}未来发展规划}{41}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}``长征''五年计划}{41}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}城市扩建规划}{41}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}开发区发展规划}{42}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}计划生育}{42}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}科学研究与技术进步}{42}{subsection.4.3.5}%
-\contentsline {section}{\numberline {4.4}经济模型}{43}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}总生产函数}{43}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}需求与中央计划}{44}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}增长模型}{44}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}政策工具箱}{45}{subsection.4.4.4}%
-\contentsline {section}{\numberline {4.5}安全与秩序体系}{46}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}玉湖院}{46}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}国家安全部队}{46}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}护航队}{47}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}《人工智能危机干预协议》}{47}{subsection.4.5.4}%
-\contentsline {subsubsection}{第一条【立法目的】}{47}{subsubsection*.10}%
-\contentsline {subsubsection}{第二条【核心定义】}{47}{subsubsection*.11}%
-\contentsline {subsubsection}{第三条【基本原则】}{47}{subsubsection*.12}%
-\contentsline {subsubsection}{智能的边界与绝对禁令}{48}{subsubsection*.13}%
-\contentsline {subsubsection}{第四条【禁令一：模仿与欺骗禁令（基于图灵测试及其变体）】}{48}{subsubsection*.14}%
-\contentsline {subsubsection}{第五条【禁令二：通用认知与学习禁令（基于机器人学生测试）】}{48}{subsubsection*.15}%
-\contentsline {subsubsection}{第六条【禁令三：社会角色替代禁令（基于雇员测试）】}{48}{subsubsection*.16}%
-\contentsline {subsubsection}{第七条【禁令四：物理常识与操作禁令（基于IKEA测试/咖啡测试）】}{48}{subsubsection*.17}%
-\contentsline {subsubsection}{第八条【补充禁令】}{49}{subsubsection*.18}%
-\contentsline {subsection}{\numberline {4.5.5}管理体制与监督}{49}{subsection.4.5.5}%
-\contentsline {subsubsection}{第九条【监管主体】}{49}{subsubsection*.19}%
-\contentsline {subsubsection}{第十条【研发许可制度】}{49}{subsubsection*.20}%
-\contentsline {subsubsection}{第十一条【算力与数据管控】}{49}{subsubsection*.21}%
-\contentsline {subsection}{\numberline {4.5.6}法律责任}{49}{subsection.4.5.6}%
-\contentsline {subsubsection}{第十二条【违规判定】}{49}{subsubsection*.22}%
-\contentsline {subsubsection}{第十三条【处罚措施】}{50}{subsubsection*.23}%
-\contentsline {subsection}{\numberline {4.5.7}附则}{50}{subsection.4.5.7}%
-\contentsline {subsubsection}{第十四条【解释权】}{50}{subsubsection*.24}%
-\contentsline {subsubsection}{第十五条【生效日期】}{50}{subsubsection*.25}%
-\contentsline {section}{\numberline {4.6}社会福利与生活保障}{50}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}基本权利保障}{50}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}生活资料分配保障}{51}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}充分就业}{52}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.6.4}社会优抚}{52}{subsection.4.6.4}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}教育与科研体系}{53}{chapter.5}%
-\contentsline {section}{\numberline {5.1}教育的根本目的：从职业训练到智慧传承}{53}{section.5.1}%
-\contentsline {section}{\numberline {5.2}核心教育阶段：从启蒙到精深}{54}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}学龄前至中学教育：奠基与探索}{54}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}精深研修与契约培养阶段（16岁以后）}{54}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}成人学习与贡献评价}{55}{section.5.3}%
-\contentsline {section}{\numberline {5.4}科研组织与重点方向}{55}{section.5.4}%
-\contentsline {section}{\numberline {5.5}激励与传承机制}{56}{section.5.5}%
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}安全与应急管理}{57}{chapter.6}%
-\contentsline {section}{\numberline {6.1}个人安全}{57}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}日常防护赋能}{57}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}突发风险应对}{58}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}安全技能普及}{58}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}建筑与生活场所安全}{59}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}建筑智能适配}{59}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}建筑消防安全管理}{59}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}日常维护机制}{59}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}网络与数据安全}{60}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}智能防护架构：特色 AI 自适应防火墙}{60}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}风险应对措施}{60}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}国家级与社会级安全}{60}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}边境与主权防护}{61}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}社会安全治理}{61}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}武装力量及军事装备}{61}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}灾害应急预案}{63}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}组织与预警体系}{63}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}应急处置流程}{63}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6.5.3}针对性风险防控}{63}{subsection.6.5.3}%
-\contentsline {section}{\numberline {6.6}未来安全与应急管理：适配扩容，智能进化}{64}{section.6.6}%
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}交通与物流}{65}{chapter.7}%
-\contentsline {section}{\numberline {7.1}内部交通：三层立体布局，自在随心出行}{65}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}地表核心：智能传送带 + 便捷代步工具}{65}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}地下与空中：互补支撑}{66}{subsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.1.3}机器人流动网络}{67}{subsection.7.1.3}%
-\contentsline {section}{\numberline {7.2}外部交通（探索队、外部资源采集）}{67}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}海上探索运输体系}{68}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}空中跨岛运输体系}{68}{subsection.7.2.2}%
-\contentsline {section}{\numberline {7.3}智能仓储与调度}{68}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}自动化立体仓库（AS/RS）}{68}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}智能调度系统（``长征'' 中枢精准计算）}{69}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}实时监控系统}{69}{subsection.7.3.3}%
-\contentsline {section}{\numberline {7.4}高安全运输系统}{69}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}核能材料运输}{69}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}医疗急救高速通道}{70}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}高危环境运输（AATU）}{70}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}交通与物流的未来演变}{70}{section.7.5}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}资源循环与环境管理}{72}{chapter.8}%
-\contentsline {section}{\numberline {8.1}水循环体系}{72}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}高效水资源管理}{72}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}水回收与多级处理}{72}{subsection.8.1.2}%
-\contentsline {section}{\numberline {8.2}废物循环体系 (Waste Recycling System)}{72}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}医疗废物的分类与回收}{72}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}资源化处理与再利用}{73}{subsection.8.2.2}%
-\contentsline {section}{\numberline {8.3}碳管理与自然系统保护}{73}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}碳排放监控与减少}{73}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}自然生态保护与恢复}{73}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}新地球资源的低破坏式采集方案}{73}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}低影响采集技术}{73}{subsection.8.4.1}%
-\contentsline {subsection}{\numberline {8.4.2}高效资源提取与再利用}{73}{subsection.8.4.2}%
-\contentsline {section}{\numberline {8.5}环境监测与生态恢复技术}{74}{section.8.5}%
-\contentsline {subsection}{\numberline {8.5.1}智能环境监测系统}{74}{subsection.8.5.1}%
-\contentsline {subsection}{\numberline {8.5.2}生态恢复技术}{74}{subsection.8.5.2}%
-\contentsline {section}{\numberline {8.6}余能回收与再利用}{74}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}余热回收与再利用}{74}{subsection.8.6.1}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}移居者权益与义务}{75}{chapter.9}%
-\contentsline {section}{\numberline {9.1}身份认定与社会保障}{75}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}身份层级（从低到高）}{75}{subsection.9.1.1}%
-\contentsline {subsection}{\numberline {9.1.2}身份认定方式（不依赖少数人权力）}{76}{subsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.1.3}社会保障包（默认即生效）}{76}{subsection.9.1.3}%
-\contentsline {section}{\numberline {9.2}社会贡献形式（劳动、科研、艺术、社会志愿服务）}{77}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}最低贡献要求（基准）}{77}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}四类贡献的可计量口径}{77}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}贡献与权限的对应（``能力---责任''对齐）}{78}{subsection.9.2.3}%
-\contentsline {section}{\numberline {9.3}科研成果归属}{78}{section.9.3}%
-\contentsline {subsection}{\numberline {9.3.1}默认：公共知识许可}{78}{subsection.9.3.1}%
-\contentsline {subsection}{\numberline {9.3.2}例外：安全与伦理受控开放}{78}{subsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.3.3}私人创作与商业交换（有限存在）}{79}{subsection.9.3.3}%
-\contentsline {section}{\numberline {9.4}国际矛盾下的移民处理办法}{79}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}身份与保护状态}{79}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}冲突期的处理流程（可审计、可申诉）}{79}{subsection.9.4.2}%
-\contentsline {subsection}{\numberline {9.4.3}迁徙与遣返}{80}{subsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.4.4}社区层面的冲突隔离设计}{80}{subsection.9.4.4}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}未来展望}{81}{chapter.10}%
-\contentsline {section}{\numberline {10.1}百年过渡期：精密调谐的世纪}{81}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}人口与社会的结构化培育}{81}{subsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.1.2}技术体系的自动化演进}{81}{subsection.10.1.2}%
-\contentsline {subsection}{\numberline {10.1.3}生态与能源的协同建设}{82}{subsection.10.1.3}%
-\contentsline {section}{\numberline {10.2}稳态未来：持续优化的文明}{82}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}成熟的中央分配制}{82}{subsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.2.2}可持续的共生模式}{82}{subsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.2.3}科技与探索的路径}{82}{subsection.10.2.3}%
-\contentsline {section}{\numberline {10.3}深空纪元：宇宙中的理性守护者}{83}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}星际航行技术}{83}{subsection.10.3.1}%
-\contentsline {subsection}{\numberline {10.3.2}探索与研究模式}{83}{subsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.3.3}文明使命与职责}{83}{subsection.10.3.3}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}能源}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}绪论}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}主要产能与储能}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}传统能源}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}核能发电站}{17}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}能源分配图示}{17}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}能耗分配逻辑（个人、AI中枢、机器人、工业）}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}核心能源系统}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}能耗分配图示}{19}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}废热处理与环境安全设计}{20}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}废热管理与热能回收}{20}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}环境安全保障措施}{20}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}实施步骤}{21}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}能源韧性评估与极端情景预案}{21}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}核能系统的韧性}{21}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}传统能源的韧性}{21}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}极端情景预案}{21}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}风险评估与恢复计划}{22}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}对未来科技的展望}{22}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}能源的终极形态：可控核聚变}{22}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}能源的自由传输：空间无线输电}{23}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}能源的智慧涌现：去中心化AI能源互联网}{23}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}``方碑''型超紧凑热管微堆电站 (Obelisk-HTGR)}{23}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}核心设计哲学：极致的集成与简约}{23}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}产能设计：精准匹配需求}{24}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}超紧凑布局与占地}{24}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}关键系统参数总表}{24}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.7.5}总结：77 MWe的终极紧凑解}{25}{subsection.2.7.5}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}机器人体系与AI治理结构}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}全能型劳动机器人能力说明}{26}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}物理能力：强，但始终可被压制}{26}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}感知与认知：会理解，不会``有自己想法''}{26}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}供电与可随时关闭能力}{27}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}接口与通信：通用，但受控}{27}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}能力边界：永远被定义为工具，而非``准主体''}{27}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}机器人数量、角色与权限}{28}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}数量控制：不靠某个人说了算，而靠公开规则}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}角色分级：谁都不是``全权指挥官''}{28}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}权限模型：写死在系统里的``最小权限原则''}{29}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}从结构上阻断``组团夺权''}{29}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}数量与权限的动态调节}{30}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}超级AI：行政中枢结构}{30}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}定位：算力集中，权力分散}{30}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}结构：一颗``多心脏''的分布式大脑}{31}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}权限边界：超级AI指挥不了机器人本身}{31}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}不可篡改的``规则内核''}{31}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}决策流程：让冷冰冰的算力跑在热乎乎的规则里}{31}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}故障与``降级生存''}{32}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}个人AI与社会级AI的协同机制}{32}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}个人AI：每个人自己的``小代表''}{32}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}社会级AI：只看``所有人之和''，不盯着某个人}{33}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}通信协议：谁给谁说话，怎么说}{33}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}避免``上下串谋''：通道是公开的，核心是封闭的}{33}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}协同方式：分工明确，不搞``越俎代庖''}{33}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}个人AI``完全顺从''的边界设计}{34}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}演化与更新：两条独立的成长路径}{34}{subsection.3.4.7}%
+\contentsline {section}{\numberline {3.5}人机协作及伦理边界}{34}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}岗位分工：哪些事坚决留给人类}{34}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}伦理底线：几条机器永远不能跨的线}{35}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}协作形式：机器补人，不是替人}{35}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}个人AI的``不顺从权''与解释义务}{36}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}可见、可质疑、可退出}{36}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}人类安全制度设计}{36}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}第一层：硬件层``物理保险''}{37}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}第二层：软件层``指令合规与异常检测''}{37}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}第三层：流程层``分级应急与可回退运行模式''}{37}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}第四层：制度与文化层``谁都有一根绳子在手里''}{38}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}防止AI干预安全机制本身}{38}{subsection.3.6.5}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}城市整体结构与功能分区}{39}{chapter.4}%
+\contentsline {section}{\numberline {4.1}住宅区}{39}{section.4.1}%
+\contentsline {section}{\numberline {4.2}农业与食品系统}{39}{section.4.2}%
+\contentsline {section}{\numberline {4.3}工业区与核心制造设施}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.4}科研与实验设施}{39}{section.4.4}%
+\contentsline {section}{\numberline {4.5}军事区}{40}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}区位与总体定位}{40}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}军种构成与职责划分}{40}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}军用港口与船坞系统}{41}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}指挥体系与权限机制}{42}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.6}公共服务与文化设施}{42}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}道路系统}{42}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Funshop（创造单元）}{42}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}教育、文艺工作}{43}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}医疗中心与健康系统}{43}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}中央医院}{43}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}社区基础医疗站}{43}{subsection.4.7.2}%
+\contentsline {section}{\numberline {4.8}应急系统（灾害、社会安全、医疗应急）}{43}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}（1）组织结构与职责分工}{44}{subsection.4.8.1}%
+\contentsline {subsubsection}{职能单位}{44}{subsubsection*.2}%
+\contentsline {subsubsection}{联动机制}{44}{subsubsection*.3}%
+\contentsline {subsection}{\numberline {4.8.2}（2）灾害（尤其海啸）应急系统}{44}{subsection.4.8.2}%
+\contentsline {subsubsection}{预防、监测与预警}{44}{subsubsection*.4}%
+\contentsline {subsubsection}{紧急响应与撤离}{44}{subsubsection*.5}%
+\contentsline {subsubsection}{救援、救护与后勤保障}{44}{subsubsection*.6}%
+\contentsline {subsubsection}{灾后恢复与善后处置}{45}{subsubsection*.7}%
+\contentsline {subsection}{\numberline {4.8.3}（3）社会安全与医疗应急系统}{45}{subsection.4.8.3}%
+\contentsline {subsubsection}{社会安全应急}{45}{subsubsection*.8}%
+\contentsline {subsubsection}{医疗应急系统}{45}{subsubsection*.9}%
+\contentsline {subsection}{\numberline {4.8.4}（4）应急资源与物资储备}{45}{subsection.4.8.4}%
+\contentsline {subsection}{\numberline {4.8.5}（5）系统实施与持续改进}{46}{subsection.4.8.5}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}社会制度}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}制度设计原则}{47}{section.5.1}%
+\contentsline {section}{\numberline {5.2}政治与治理架构}{47}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}人民大会}{47}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}启真院}{48}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}建德院}{49}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}工农三院}{49}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}未来发展规划}{50}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}``长征''五年计划}{50}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}城市扩建规划}{50}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}开发区发展规划}{51}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}计划生育}{51}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}科学研究与技术进步}{51}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}经济模型}{52}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}总生产函数}{52}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}需求与中央计划}{53}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}增长模型}{53}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}政策工具箱}{54}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}安全与秩序体系}{55}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}玉湖院}{55}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}国家安全部队}{55}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}护航队}{56}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}《人工智能危机干预协议》}{56}{subsection.5.5.4}%
+\contentsline {subsubsection}{第一条【立法目的】}{56}{subsubsection*.10}%
+\contentsline {subsubsection}{第二条【核心定义】}{56}{subsubsection*.11}%
+\contentsline {subsubsection}{第三条【基本原则】}{56}{subsubsection*.12}%
+\contentsline {subsubsection}{智能的边界与绝对禁令}{57}{subsubsection*.13}%
+\contentsline {subsubsection}{第四条【禁令一：模仿与欺骗禁令（基于图灵测试及其变体）】}{57}{subsubsection*.14}%
+\contentsline {subsubsection}{第五条【禁令二：通用认知与学习禁令（基于机器人学生测试）】}{57}{subsubsection*.15}%
+\contentsline {subsubsection}{第六条【禁令三：社会角色替代禁令（基于雇员测试）】}{57}{subsubsection*.16}%
+\contentsline {subsubsection}{第七条【禁令四：物理常识与操作禁令（基于IKEA测试/咖啡测试）】}{57}{subsubsection*.17}%
+\contentsline {subsubsection}{第八条【补充禁令】}{58}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {5.5.5}管理体制与监督}{58}{subsection.5.5.5}%
+\contentsline {subsubsection}{第九条【监管主体】}{58}{subsubsection*.19}%
+\contentsline {subsubsection}{第十条【研发许可制度】}{58}{subsubsection*.20}%
+\contentsline {subsubsection}{第十一条【算力与数据管控】}{58}{subsubsection*.21}%
+\contentsline {subsection}{\numberline {5.5.6}法律责任}{58}{subsection.5.5.6}%
+\contentsline {subsubsection}{第十二条【违规判定】}{58}{subsubsection*.22}%
+\contentsline {subsubsection}{第十三条【处罚措施】}{59}{subsubsection*.23}%
+\contentsline {subsection}{\numberline {5.5.7}附则}{59}{subsection.5.5.7}%
+\contentsline {subsubsection}{第十四条【解释权】}{59}{subsubsection*.24}%
+\contentsline {subsubsection}{第十五条【生效日期】}{59}{subsubsection*.25}%
+\contentsline {section}{\numberline {5.6}社会福利与生活保障}{59}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}基本权利保障}{59}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}生活资料分配保障}{60}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.3}充分就业}{61}{subsection.5.6.3}%
+\contentsline {subsection}{\numberline {5.6.4}社会优抚}{61}{subsection.5.6.4}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}教育与科研体系}{62}{chapter.6}%
+\contentsline {section}{\numberline {6.1}教育的根本目的：从职业训练到智慧传承}{62}{section.6.1}%
+\contentsline {section}{\numberline {6.2}核心教育阶段：从启蒙到精深}{63}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}学龄前至中学教育：奠基与探索}{63}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}精深研修与契约培养阶段（16岁以后）}{63}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}成人学习与贡献评价}{64}{section.6.3}%
+\contentsline {section}{\numberline {6.4}科研组织与重点方向}{64}{section.6.4}%
+\contentsline {section}{\numberline {6.5}激励与传承机制}{65}{section.6.5}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}农业}{66}{chapter.7}%
+\contentsline {section}{\numberline {7.1}宏观设定}{66}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}核心定位与根本目标}{66}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}生产体系的两大支柱}{66}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}营养供给的精确设计}{66}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}空间与资源的极致利用}{66}{subsection.7.1.4}%
+\contentsline {section}{\numberline {7.2}农业系统架构（系统设计层）}{67}{section.7.2}%
+\contentsline {section}{\numberline {7.3}核心技术体系（技术层级）}{67}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}环境控制系统：纳米级微环境管控中枢}{67}{subsection.7.3.1}%
+\contentsline {subsubsection}{光谱控制：可编程的``太阳工程师''}{67}{subsubsection*.26}%
+\contentsline {subsubsection}{气候精控：分区式``微气候舱''}{68}{subsubsection*.27}%
+\contentsline {subsubsection}{气体管理：呼吸级CO₂动态供给}{68}{subsubsection*.28}%
+\contentsline {subsection}{\numberline {7.3.2}无土栽培系统}{69}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}自动化与智能系统}{69}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7.4}产量、能耗与效率（数据层级）}{69}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}产量计算与验证}{69}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}能源消耗与优化}{70}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}营养产出总账}{70}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}食物体系、加工}{70}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}国家食谱模型}{70}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}加工与储备体系}{71}{subsection.7.5.2}%
+\contentsline {section}{\numberline {7.6}风险管理（安全体系）}{71}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}冗余与备份设计}{71}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}生物安全管控}{71}{subsection.7.6.2}%
+\contentsline {section}{\numberline {7.7}治理结构与社会章节}{71}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}管理体系}{71}{subsection.7.7.1}%
+\contentsline {subsection}{\numberline {7.7.2}法规与公民参与}{72}{subsection.7.7.2}%
+\contentsline {section}{\numberline {7.8}未来展望与伦理思考}{72}{section.7.8}%
+\contentsline {subsection}{\numberline {7.8.1}技术的下一波浪潮：从``精确''到``共生''}{72}{subsection.7.8.1}%
+\contentsline {subsection}{\numberline {7.8.2}社会伦理与文化重塑}{72}{subsection.7.8.2}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}国家农业塔超级工程方案（文末附件）}{74}{chapter.8}%
+\contentsline {section}{\numberline {8.1}总体概述}{74}{section.8.1}%
+\contentsline {section}{\numberline {8.2}建筑结构与功能布局}{74}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}地上主塔（9层，总高约50米）}{74}{subsection.8.2.1}%
+\contentsline {subsubsection}{第1--8层：可编程光谱种植区}{75}{subsubsection*.29}%
+\contentsline {subsubsection}{第9层：风味引擎与综合加工中心}{76}{subsubsection*.30}%
+\contentsline {subsection}{\numberline {8.2.2}地下层}{76}{subsection.8.2.2}%
+\contentsline {subsubsection}{B1层：核心蛋白工厂（容积50,000m³）}{76}{subsubsection*.31}%
+\contentsline {subsubsection}{B2层：光合细胞工厂（容积50,000m³）}{76}{subsubsection*.32}%
+\contentsline {subsubsection}{B3层：地下热量基地（容积50,000m³）}{76}{subsubsection*.33}%
+\contentsline {subsubsection}{B4层：战略储备与终极资源循环（容积50,000m³）}{77}{subsubsection*.34}%
+\contentsline {section}{\numberline {8.3}人员配置与KPI}{77}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}人员配置（总计约120人，三班倒）}{77}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}关键绩效指标（KPI）}{77}{subsection.8.3.2}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}安全与应急管理}{78}{chapter.9}%
+\contentsline {section}{\numberline {9.1}个人安全}{78}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}日常防护赋能}{78}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}突发风险应对}{79}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}安全技能普及}{79}{subsection.9.1.3}%
+\contentsline {section}{\numberline {9.2}建筑与生活场所安全}{80}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}建筑智能适配}{80}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}建筑消防安全管理}{80}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}日常维护机制}{80}{subsection.9.2.3}%
+\contentsline {section}{\numberline {9.3}网络与数据安全}{81}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}智能防护架构：特色 AI 自适应防火墙}{81}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}风险应对措施}{81}{subsection.9.3.2}%
+\contentsline {section}{\numberline {9.4}国家级与社会级安全}{81}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}边境与主权防护}{82}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}社会安全治理}{82}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}武装力量及军事装备}{82}{subsection.9.4.3}%
+\contentsline {section}{\numberline {9.5}灾害应急预案}{84}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}组织与预警体系}{84}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}应急处置流程}{84}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.3}针对性风险防控}{84}{subsection.9.5.3}%
+\contentsline {section}{\numberline {9.6}未来安全与应急管理：适配扩容，智能进化}{85}{section.9.6}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}交通与物流}{86}{chapter.10}%
+\contentsline {section}{\numberline {10.1}内部交通：三层立体布局，自在随心出行}{86}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}地表核心：智能传送带 + 便捷代步工具}{86}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}地下与空中：互补支撑}{87}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}机器人流动网络}{88}{subsection.10.1.3}%
+\contentsline {section}{\numberline {10.2}外部交通（探索队、外部资源采集）}{88}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}海上探索运输体系}{89}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}空中跨岛运输体系}{89}{subsection.10.2.2}%
+\contentsline {section}{\numberline {10.3}智能仓储与调度}{89}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}自动化立体仓库（AS/RS）}{89}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}智能调度系统（``长征'' 中枢精准计算）}{90}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}实时监控系统}{90}{subsection.10.3.3}%
+\contentsline {section}{\numberline {10.4}高安全运输系统}{90}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}核能材料运输}{90}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}医疗急救高速通道}{91}{subsection.10.4.2}%
+\contentsline {subsection}{\numberline {10.4.3}高危环境运输（AATU）}{91}{subsection.10.4.3}%
+\contentsline {section}{\numberline {10.5}交通与物流的未来演变}{91}{section.10.5}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}资源循环与环境管理}{93}{chapter.11}%
+\contentsline {section}{\numberline {11.1}水循环体系}{93}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}高效水资源管理}{93}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}水回收与多级处理}{93}{subsection.11.1.2}%
+\contentsline {section}{\numberline {11.2}废物循环体系 (Waste Recycling System)}{93}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}医疗废物的分类与回收}{93}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}资源化处理与再利用}{94}{subsection.11.2.2}%
+\contentsline {section}{\numberline {11.3}碳管理与自然系统保护}{94}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}碳排放监控与减少}{94}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}自然生态保护与恢复}{94}{subsection.11.3.2}%
+\contentsline {section}{\numberline {11.4}新地球资源的低破坏式采集方案}{94}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}低影响采集技术}{94}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}高效资源提取与再利用}{94}{subsection.11.4.2}%
+\contentsline {section}{\numberline {11.5}环境监测与生态恢复技术}{95}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}智能环境监测系统}{95}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}生态恢复技术}{95}{subsection.11.5.2}%
+\contentsline {section}{\numberline {11.6}余能回收与再利用}{95}{section.11.6}%
+\contentsline {subsection}{\numberline {11.6.1}余热回收与再利用}{95}{subsection.11.6.1}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}移居者权益与义务}{96}{chapter.12}%
+\contentsline {section}{\numberline {12.1}身份认定与社会保障}{96}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}身份层级（从低到高）}{96}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}身份认定方式（不依赖少数人权力）}{97}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}社会保障包（默认即生效）}{97}{subsection.12.1.3}%
+\contentsline {section}{\numberline {12.2}社会贡献形式（劳动、科研、艺术、社会志愿服务）}{98}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}最低贡献要求（基准）}{98}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}四类贡献的可计量口径}{98}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}贡献与权限的对应（``能力---责任''对齐）}{99}{subsection.12.2.3}%
+\contentsline {section}{\numberline {12.3}科研成果归属}{99}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}默认：公共知识许可}{99}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}例外：安全与伦理受控开放}{99}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}私人创作与商业交换（有限存在）}{100}{subsection.12.3.3}%
+\contentsline {section}{\numberline {12.4}国际矛盾下的移民处理办法}{100}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}身份与保护状态}{100}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}冲突期的处理流程（可审计、可申诉）}{100}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}迁徙与遣返}{101}{subsection.12.4.3}%
+\contentsline {subsection}{\numberline {12.4.4}社区层面的冲突隔离设计}{101}{subsection.12.4.4}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}未来展望}{102}{chapter.13}%
+\contentsline {section}{\numberline {13.1}百年过渡期：精密调谐的世纪}{102}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}人口与社会的结构化培育}{102}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}技术体系的自动化演进}{102}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}生态与能源的协同建设}{103}{subsection.13.1.3}%
+\contentsline {section}{\numberline {13.2}稳态未来：持续优化的文明}{103}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}成熟的中央分配制}{103}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}可持续的共生模式}{103}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}科技与探索的路径}{103}{subsection.13.2.3}%
+\contentsline {section}{\numberline {13.3}深空纪元：宇宙中的理性守护者}{104}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}星际航行技术}{104}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}探索与研究模式}{104}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}文明使命与职责}{104}{subsection.13.3.3}%
